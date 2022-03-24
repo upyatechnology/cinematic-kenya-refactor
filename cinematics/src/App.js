@@ -1,14 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-
-     <h1>
-   cinematic  beginning  
-   </h1>
-   
+      <p>Now Let's work on Routing!!!!</p>
     </div>
   );
 }
